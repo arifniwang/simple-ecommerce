@@ -43,7 +43,8 @@ nav.navbar {
 
 #auth,
 #product-details,
-#cart {
+#cart,
+#order {
     min-height: calc(100vh - 70px);
 }
 
